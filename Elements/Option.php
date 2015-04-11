@@ -2,8 +2,6 @@
 
 namespace Grid\Elements;
 
-defined('SECURITY') OR die('HACKING_ATTEMPT');
-
 use Grid\Element;
 
 /*
@@ -13,7 +11,7 @@ use Grid\Element;
  */
 
 /**
- * Description of Grid
+ * Description of Option
  *
  * @author Arkadiusz Miszczyszyn
  */

@@ -2,8 +2,6 @@
 
 namespace Grid\Components;
 
-defined('SECURITY') OR die('HACKING_ATTEMPT');
-
 use Grid\Manager\AbstractComponent;
 use Grid\Parts\Column;
 
@@ -14,7 +12,7 @@ use Grid\Parts\Column;
  */
 
 /**
- * Description of Grid
+ * Description of Sort
  *
  * @author Arkadiusz Miszczyszyn
  */

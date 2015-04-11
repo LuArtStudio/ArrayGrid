@@ -2,8 +2,6 @@
 
 namespace Grid\Components;
 
-defined('SECURITY') OR die('HACKING_ATTEMPT');
-
 use Grid\Parts\Column;
 
 /*
@@ -13,7 +11,7 @@ use Grid\Parts\Column;
  */
 
 /**
- * Description of AbstractComponent
+ * Description of ComponentInterface
  *
  * @author Arkadiusz Miszczyszyn
  */

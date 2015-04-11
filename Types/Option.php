@@ -2,8 +2,6 @@
 
 namespace Grid\Types;
 
-defined('SECURITY') OR die('HACKING_ATTEMPT');
-
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -13,7 +11,7 @@ defined('SECURITY') OR die('HACKING_ATTEMPT');
 use Grid\Parts\Column;
 
 /**
- * Description of Grid
+ * Description of Option
  *
  * @author Arkadiusz Miszczyszyn
  */
