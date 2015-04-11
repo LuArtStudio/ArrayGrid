@@ -1,0 +1,17 @@
+{
+    "name": "arraygrid",
+    "license": "MIT",
+    "type": "project",
+	"authors": [
+        {
+            "name": "Arkadiusz Miszczyszyn",
+            "email": "arkadiusz.miszczyszyn@gmail.com",
+            "homepage": "http://www.lu-art.com",
+            "role": "Developer"
+        }
+    ],
+    "description": "Generate bootstrap grid from array data.",
+    "require": {
+        "php": ">=5.4.39"
+    }
+}
